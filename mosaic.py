@@ -54,7 +54,7 @@ def create_binary_image(binary_text):
     return final_image
 
 # Example usage
-text = "LCTF{O$1n7_6@7#3r3D}"
+text = "EnterTextToEncodeHere"
 binary_text = text_to_binary(text)
 binary_image = create_binary_image(binary_text)
 
